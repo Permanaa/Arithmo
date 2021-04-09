@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513532866324",
+    "project_id": "arithmo-4f289",
+    "storage_bucket": "arithmo-4f289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513532866324:android:f2d1b537871f39ff06dc01",
+        "android_client_info": {
+          "package_name": "com.arithmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513532866324-vhb9jhun7a63jcvb2j9ifvlhi2i65qdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEeErTbwqg7bctMNtoka9uVc_mmtj8cEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513532866324-vhb9jhun7a63jcvb2j9ifvlhi2i65qdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
